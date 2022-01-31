@@ -1,0 +1,38 @@
+body{
+    font-family: "josefin sans";
+
+}
+.navbar{
+    background-color: #EBBAFF;
+}
+.quem-somos{
+    background-color: #FFC6F4;
+    color:#505050;
+}
+.margin{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: #C0F5FA;
+
+}
+.servicos{
+    background-color: #F1FFC4;
+}
+p{
+    text-align: justify;
+}
+h3{
+    font-size: 35px;s
+    margin-left: 500px;
+}
+.bg-footer{
+    background-color:black;
+
+}
+footer p{
+    text-align: center;
+    color:white;
+    margin-top:-40px;
+}
